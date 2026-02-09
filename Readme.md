@@ -1,10 +1,14 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Елена  Скляренко](https://up.htmlacademy.ru/adaptive-individual/2/user/2137245).
+<<<<<<< Updated upstream
 
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 
+=======
+* Наставник: [Анна  Лисененкова](https://htmlacademy.ru/profile/ankhena).
+>>>>>>> Stashed changes
 
 ---
 
